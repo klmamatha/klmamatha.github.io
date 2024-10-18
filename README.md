@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 - JavaScript ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - Bootstrap ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 - SQL ![SQL Badge](https://img.shields.io/badge/-SQL-006AB6?style=flat&logo=sqlite&logoColor=white)
-- MongoDB ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
 - Node.js ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 - Express.js ![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 - React.js ![React.js Badge](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
